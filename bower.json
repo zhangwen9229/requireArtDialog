@@ -1,0 +1,23 @@
+{
+  "name": "avalontest",
+  "version": "0.0.0",
+  "main": "js/index.js",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "vendy"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "avalon": "~1.4.4"
+  }
+}
