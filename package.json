@@ -11,6 +11,7 @@
   "dependencies": {
     "artdialog": "^6.0.5",
     "bower": "^1.4.1",
+    "bui": "^0.1.15",
     "jquery": "^1.11.3",
     "require": "^2.4.18",
     "requirejs": "^2.1.18"

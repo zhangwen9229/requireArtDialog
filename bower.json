@@ -18,6 +18,7 @@
     "tests"
   ],
   "dependencies": {
-    "avalon": "~1.4.4"
+    "avalon": "~1.4.4",
+    "buijs": "~0.0.11"
   }
 }
